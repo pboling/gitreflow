@@ -66,7 +66,7 @@ GEM
       byebug (~> 8.0)
       pry (~> 0.10)
     rack (1.6.4)
-    rake (10.5.0)
+    rake (13.0.3)
     rdoc (4.2.2)
       json (~> 1.4)
     reenhanced_bitbucket_api (0.3.2)
